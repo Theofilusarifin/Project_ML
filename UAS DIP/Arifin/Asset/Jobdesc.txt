@@ -1,0 +1,9 @@
+Judul, Abstract Keyword -> Evan
+Pernyataan Masalah -> Jason
+2. Metode penelitian -> Arifin
+2.1 Pengumpulan Dataset (Tambah Gambar) -> Evan
+2.2 Pembentukan Model Klasifikasi -> Henri
+2.3 training -> Jason
+2.4 testing -> Jason
+Hasil dan Pembahasan -> Arifin
+Referensi -> Evan

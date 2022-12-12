@@ -29,7 +29,7 @@ st.image(image, use_column_width= True)
 st.info('''
 **Team**
 * 160420046 - Theofilus Arifin [[More Info]](https://www.linkedin.com/in/theofilusarifin/)
-* 160420108 - Hans Wirjawan [[More Info]](https://www.linkedin.com/in/theofilusarifin/)
+* 160420108 - Hans Wirjawan [[More Info]](https://www.linkedin.com/in/hans-wirjawan-977b15244/)
 ''')
 
 # Description Section
